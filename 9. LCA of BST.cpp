@@ -1,5 +1,8 @@
 Node* LCA(Node *root, int n1, int n2)
 {
+     
+//   ITERATIVE APPROACH :
+     
 //   if(!root) return NULL;
 //   while(root!=NULL)
 //   {
